@@ -1,8 +1,5 @@
 # sale-data-2024-25
-# sale-data-2024-25
-Sure! Let’s build out your dashboard documentation—just fill in or adjust the details below. I’ve created the template based on the format you shared:
 
----
 
 ### 📊 **\[Project Title Here]: Sales Performance Insights Dashboard**
 
